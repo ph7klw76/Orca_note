@@ -15,7 +15,7 @@ END
 %maxcore 2000  #This sets a limit of 2000 MB (2 GB) of memory per core for the calculation.
 %pal nprocs 16 end  # Use 16 processor
 * XYZFILE 0 1 EHBIPO0.07294535118797844.xyz
-```python
+```
 
 
 
